@@ -1,5 +1,5 @@
 <?php
-// Database connection parameters
+// Database connection params
 $servername = "localhost";
 $username = "root"; // Change this if you have a different username
 $password = ""; // Change this if you have set a password for MySQL
